@@ -7,15 +7,26 @@
 
 - Claude conversations now keep capturing later messages instead of stopping
   after the first one.
-- Background task notices and other system-only messages are skipped, so your
-  learning history stays focused.
+- Background task notices, history copied into Codex branch tasks, and other
+  system-only messages are skipped, so unrelated or repeated cards do not
+  enter your learning history.
+- Several new messages no longer start the same work again and again.
+  Unfinished items left by an interruption or an older version continue
+  automatically when the app opens again.
+- When items have been waiting too long, a clear notice lets you restart them
+  or remove only the waiting items. Completed learning stays untouched.
 - Cards and copied rewrites no longer show formatting marks such as extra
   asterisks or underscores, making them easier to read.
 
 ### 本次更新
 
 - 在 Claude 中连续对话时，现在会继续收录后续消息，不再只保留第一条。
-- 后台任务通知和其他仅供系统使用的消息会被自动跳过，学习记录更加干净。
+- 后台任务通知、Codex 分支任务中复制的历史内容以及其他系统消息会被自动
+  跳过，避免无关或重复的卡片进入学习记录。
+- 多条新消息同时出现时，不会反复启动同一批处理。意外中断或旧版本留下的
+  等待内容，会在重新打开后自动继续。
+- 等待时间过长时会出现明确提示，可以重新处理或只移除等待中的内容；已经
+  完成的学习记录会保留。
 - 卡片和复制出的表达不再显示多余的星号、下划线等格式符号，阅读更清爽。
 
 <!-- release-notes:260728.0:end -->

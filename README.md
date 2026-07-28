@@ -13,7 +13,7 @@ Latest version: `260728.0`. See the [release notes](RELEASE_NOTES.md) for change
 **Direct download**
 
 <!-- release-download-en:start -->
-Download [`YiYan-260728.0.dmg`](https://github.com/cxa/yiyan/releases/download/v260728.0/YiYan-260728.0.dmg) (SHA-256: `4261c198f53b8cd4cd99600726f9e6292fe1db0055a1fc631535f728e0515b57`)
+Download [`YiYan-260728.0.dmg`](https://github.com/cxa/yiyan/releases/download/v260728.0/YiYan-260728.0.dmg) (SHA-256: `dfade471c2a65da5896dba3f6567a03e2f7b616791b3f0056b2f0e7821bacc06`)
 <!-- release-download-en:end -->
 
 1. Download the `YiYan-260728.0.dmg` shown above.
@@ -62,7 +62,7 @@ YiYan is not open source.
 **直接下载**
 
 <!-- release-download-zh:start -->
-下载 [`YiYan-260728.0.dmg`](https://github.com/cxa/yiyan/releases/download/v260728.0/YiYan-260728.0.dmg)（SHA-256：`4261c198f53b8cd4cd99600726f9e6292fe1db0055a1fc631535f728e0515b57`）
+下载 [`YiYan-260728.0.dmg`](https://github.com/cxa/yiyan/releases/download/v260728.0/YiYan-260728.0.dmg)（SHA-256：`dfade471c2a65da5896dba3f6567a03e2f7b616791b3f0056b2f0e7821bacc06`）
 <!-- release-download-zh:end -->
 
 1. 下载上方列出的 `YiYan-260728.0.dmg`。
