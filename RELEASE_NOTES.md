@@ -1,5 +1,24 @@
 # Release notes
 
+<!-- release-notes:260728.0:start -->
+## 260728.0
+
+### What’s new
+
+- Claude conversations now keep capturing later messages instead of stopping
+  after the first one.
+- Background task notices and other system-only messages are skipped, so your
+  learning history stays focused.
+- Cards and copied rewrites no longer show formatting marks such as extra
+  asterisks or underscores, making them easier to read.
+
+### 本次更新
+
+- 在 Claude 中连续对话时，现在会继续收录后续消息，不再只保留第一条。
+- 后台任务通知和其他仅供系统使用的消息会被自动跳过，学习记录更加干净。
+- 卡片和复制出的表达不再显示多余的星号、下划线等格式符号，阅读更清爽。
+
+<!-- release-notes:260728.0:end -->
 <!-- release-notes:260727.0:start -->
 ## 260727.0
 
