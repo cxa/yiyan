@@ -1,5 +1,25 @@
 # Release notes
 
+<!-- release-notes:260729.1:start -->
+## 260729.1
+
+### What’s new
+
+- YiYan now uses far less processor time in the background, even when you have
+  a large conversation history, while continuing to notice new messages
+  promptly.
+- YiYan now handles Claude Code cleaning up a conversation while you work, so
+  Settings no longer shows a misleading “no such file” warning and later
+  messages continue to be collected normally.
+
+### 本次更新
+
+- 即使已经积累了大量对话记录，《绎言》在后台运行时也会显著减少处理器占用，
+  同时继续及时收录新消息。
+- Claude Code 在工作过程中清理会话时，《绎言》会安静地继续运行，不再在
+  设置中显示误导性的“文件不存在”提示，后续消息也能正常收录。
+
+<!-- release-notes:260729.1:end -->
 <!-- release-notes:260729.0:start -->
 ## 260729.0
 

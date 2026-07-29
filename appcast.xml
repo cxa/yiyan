@@ -3,6 +3,32 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260729.1</title>
+            <pubDate>Wed, 29 Jul 2026 15:22:57 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2607.29.1</sparkle:version>
+            <sparkle:shortVersionString>260729.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s new
+
+- YiYan now uses far less processor time in the background, even when you have
+  a large conversation history, while continuing to notice new messages
+  promptly.
+- YiYan now handles Claude Code cleaning up a conversation while you work, so
+  Settings no longer shows a misleading “no such file” warning and later
+  messages continue to be collected normally.
+
+### 本次更新
+
+- 即使已经积累了大量对话记录，《绎言》在后台运行时也会显著减少处理器占用，
+  同时继续及时收录新消息。
+- Claude Code 在工作过程中清理会话时，《绎言》会安静地继续运行，不再在
+  设置中显示误导性的“文件不存在”提示，后续消息也能正常收录。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260729.1/YiYan-260729.1.dmg" length="6238399" type="application/octet-stream" sparkle:edSignature="A5jVNfHvG1Fz1rCeQMJwMgM8c7txRTMtA6MuKk8KnO6dNX2GegoVgY4WgW/jxmhoqUMRF3Yh6syJqAyjWbupDg=="/>
+        </item>
+        <item>
             <title>260729.0</title>
             <pubDate>Wed, 29 Jul 2026 12:12:05 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
