@@ -3,6 +3,26 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260729.0</title>
+            <pubDate>Wed, 29 Jul 2026 12:12:05 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2607.29.0</sparkle:version>
+            <sparkle:shortVersionString>260729.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s new
+
+- Automatic conversation summaries created by Claude Code are no longer added
+  to your learning history, keeping it focused on messages you actually wrote.
+
+## 本次更新
+
+- Claude Code 在整理上下文时自动生成的对话摘要，不会再进入《绎言》的学习
+  记录，内容只聚焦于你真正写下的消息。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260729.0/YiYan-260729.0.dmg" length="6077338" type="application/octet-stream" sparkle:edSignature="Xz1QsfH3MKOF0prNbQDb76872qOaXBH6A5Mozi2l/DpV8GkBtKoxrVMHjIj2+DhmvL10N6FXcdnmWfMorcFsDw=="/>
+        </item>
+        <item>
             <title>260728.0</title>
             <pubDate>Tue, 28 Jul 2026 15:53:42 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>

@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:260729.0:start -->
+## 260729.0
+
+### What’s new
+
+- Automatic conversation summaries created by Claude Code are no longer added
+  to your learning history, keeping it focused on messages you actually wrote.
+
+### 本次更新
+
+- Claude Code 在整理上下文时自动生成的对话摘要，不会再进入《绎言》的学习
+  记录，内容只聚焦于你真正写下的消息。
+
+<!-- release-notes:260729.0:end -->
 <!-- release-notes:260728.0:start -->
 ## 260728.0
 
