@@ -1,5 +1,29 @@
 # Release notes
 
+<!-- release-notes:260729.2:start -->
+## 260729.2
+
+### What’s new
+
+- Very short commands, acknowledgements, and other low-value messages are now
+  filtered more reliably, keeping your learning history focused on useful
+  writing.
+- Days with hundreds of records now open much faster. Recent records appear
+  first, and earlier records are added smoothly as you scroll up.
+- Loading is clearer: the activity indicator stays in the center, and the
+  record count appears only when it is ready.
+- Example labels now sit neatly on the same baseline as their sentences.
+
+### 本次更新
+
+- 简短命令、确认语和其他学习价值较低的消息会被更可靠地过滤，让《绎言》的
+  学习记录更专注于值得练习的表达。
+- 一天内有数百条记录时也能更快打开；最近的记录会先出现，向上滚动时再平滑
+  补入更早的内容。
+- 加载状态更清晰：进度提示只显示在内容区中央，记录数量会在准备完成后再出现。
+- 示例标签现在会与后面的句子整齐地对齐在同一基线上。
+
+<!-- release-notes:260729.2:end -->
 <!-- release-notes:260729.1:start -->
 ## 260729.1
 
