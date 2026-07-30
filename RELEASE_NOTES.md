@@ -1,5 +1,18 @@
 # Release notes
 
+<!-- release-notes:260730.0:start -->
+## 260730.0
+
+### What’s new
+
+- Example labels now stay clear and readable in Dark Mode and automatically
+  match your Mac’s appearance.
+
+### 本次更新
+
+- 深色模式下，示例标签现在清晰可读，并会自动匹配 Mac 的外观。
+
+<!-- release-notes:260730.0:end -->
 <!-- release-notes:260729.2:start -->
 ## 260729.2
 

@@ -3,6 +3,25 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260730.0</title>
+            <pubDate>Thu, 30 Jul 2026 19:54:41 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2607.30.0</sparkle:version>
+            <sparkle:shortVersionString>260730.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s new
+
+- Example labels now stay clear and readable in Dark Mode and automatically
+  match your Mac’s appearance.
+
+### 本次更新
+
+- 深色模式下，示例标签现在清晰可读，并会自动匹配 Mac 的外观。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260730.0/YiYan-260730.0.dmg" length="6308495" type="application/octet-stream" sparkle:edSignature="xuDeRbJTWwwWZga3P0ul+tgLdRGCBu2n+Xm0wMmKdm0STTHsjr3/9dMQbB3UShBmGkUROsmV1Z+hWJSYGRoRCA=="/>
+        </item>
+        <item>
             <title>260729.2</title>
             <pubDate>Wed, 29 Jul 2026 17:55:41 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -113,53 +132,6 @@
 - 卡片和复制出的表达不再显示多余的星号、下划线等格式符号，阅读更清爽。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260728.0/YiYan-260728.0.dmg" length="6076602" type="application/octet-stream" sparkle:edSignature="oBTRwV8GxPlGr13ULx9yFHL7x7aBI79ulJUsYJmbJ+sFEh8EiRpDfsg+Guxu66EgqcvDGswUnAZDKG/f2GKtCA=="/>
-        </item>
-        <item>
-            <title>260727.0</title>
-            <pubDate>Mon, 27 Jul 2026 15:20:18 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2607.27.0</sparkle:version>
-            <sparkle:shortVersionString>260727.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
-
-This is the first YiYan release.
-
-- Improve the English you write in Pi, Claude Code, and Codex without
-  interrupting your work.
-- See a natural rewrite and a focused learning note for each useful message.
-- Revisit earlier learning by date and bookmark the notes worth keeping.
-- Bring YiYan forward from anywhere with a shortcut, or keep it visible while
-  you work.
-- Record any key combination you prefer for the global show-or-hide shortcut.
-- Choose the language used for explanations and the text size that feels most
-  comfortable.
-- Get started more easily and enjoy a cleaner, more compact reading layout.
-- Skip short commands and acknowledgements that do not offer useful learning
-  value.
-- Receive future versions automatically, with a manual update check available
-  in Settings.
-
-Your learning history stays on your Mac.
-
-## 本次更新
-
-这是《绎言》的首个版本。
-
-- 在 Pi、Claude Code 和 Codex 中正常工作时，即可改进自己写下的英文表达。
-- 每条有学习价值的消息都会获得更自然的表达和重点明确的学习笔记。
-- 可以按日期回顾过往内容，并收藏值得反复复习的笔记。
-- 可随时通过快捷键呼出《绎言》，也可以让窗口保持在其他窗口前方。
-- 可以录制自己习惯的任意组合键，作为全局显示或隐藏快捷键。
-- 可以选择讲解语言和更舒适的文字大小。
-- 首次使用更容易上手，阅读布局也更加清爽紧凑。
-- 简短命令和没有学习价值的确认语会被自动略过。
-- 后续版本可以自动获取，也可以随时在设置中手动检查更新。
-
-学习记录只保留在你的 Mac 上。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260727.0/YiYan-260727.0.dmg" length="5900324" type="application/octet-stream" sparkle:edSignature="/8ZaWdIWx6qABR5GqvqeOjEr33xBEq+MRUsgQH5QaSQSmpz2/Zpbcek7wMVd2JF2BfAPA6JY1BH14SJpToI0Cw=="/>
         </item>
     </channel>
 </rss>
