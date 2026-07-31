@@ -3,6 +3,36 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260801.0</title>
+            <pubDate>Sat, 01 Aug 2026 00:51:10 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.01.0</sparkle:version>
+            <sparkle:shortVersionString>260801.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s new
+
+- YiYan can now keep completed learning records, bookmarks, and deletions up
+  to date through iCloud, so you can continue learning with the iPhone
+  companion while away from your Mac.
+- A new iCloud Sync section in Settings lets you turn syncing on, follow its
+  progress, or remove your synced learning library when you no longer want
+  it in iCloud.
+- Commands, file paths, links, and other literal text now stay readable in
+  learning notes instead of appearing as internal placeholder labels.
+
+### 本次更新
+
+- 《绎言》现在可以通过 iCloud 同步已完成的学习记录、书签和删除操作，离开
+  Mac 后也能在 iPhone 伴侣应用中继续学习。
+- 设置中新增了 iCloud 同步区域，可以开启同步、查看同步进度，也可以在不再
+  需要时移除保存在 iCloud 中的学习资料。
+- 学习笔记中的命令、文件路径、链接和其他原样文本现在会保持清晰可读，不再
+  显示为内部占位标记。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.0/YiYan-260801.0.dmg" length="6985818" type="application/octet-stream" sparkle:edSignature="uoQpkMEpqOCyIBT9ta4jie5NqctPvpQesD0DRmNF3eqxWE9KeSWtP1t5h8F0EOyf7Hp2GZ9fKKx5MiMDX68dDA=="/>
+        </item>
+        <item>
             <title>260731.1</title>
             <pubDate>Fri, 31 Jul 2026 15:38:53 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -94,32 +124,6 @@
 - 示例标签现在会与后面的句子整齐地对齐在同一基线上。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260729.2/YiYan-260729.2.dmg" length="6297789" type="application/octet-stream" sparkle:edSignature="YIKwks5eCTY/RNLq/Ch9C9lzso3aU/MqzU9E5xdpAYwCbcSg5fzgMUcYGstF+DGbLkHQobRgticlGLL6ySSnCg=="/>
-        </item>
-        <item>
-            <title>260729.1</title>
-            <pubDate>Wed, 29 Jul 2026 15:22:57 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2607.29.1</sparkle:version>
-            <sparkle:shortVersionString>260729.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s new
-
-- YiYan now uses far less processor time in the background, even when you have
-  a large conversation history, while continuing to notice new messages
-  promptly.
-- YiYan now handles Claude Code cleaning up a conversation while you work, so
-  Settings no longer shows a misleading “no such file” warning and later
-  messages continue to be collected normally.
-
-### 本次更新
-
-- 即使已经积累了大量对话记录，《绎言》在后台运行时也会显著减少处理器占用，
-  同时继续及时收录新消息。
-- Claude Code 在工作过程中清理会话时，《绎言》会安静地继续运行，不再在
-  设置中显示误导性的“文件不存在”提示，后续消息也能正常收录。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260729.1/YiYan-260729.1.dmg" length="6238399" type="application/octet-stream" sparkle:edSignature="A5jVNfHvG1Fz1rCeQMJwMgM8c7txRTMtA6MuKk8KnO6dNX2GegoVgY4WgW/jxmhoqUMRF3Yh6syJqAyjWbupDg=="/>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,29 @@
 # Release notes
 
+<!-- release-notes:260801.0:start -->
+## 260801.0
+
+### What’s new
+
+- YiYan can now keep completed learning records, bookmarks, and deletions up
+  to date through iCloud, so you can continue learning with the iPhone
+  companion while away from your Mac.
+- A new iCloud Sync section in Settings lets you turn syncing on, follow its
+  progress, or remove your synced learning library when you no longer want
+  it in iCloud.
+- Commands, file paths, links, and other literal text now stay readable in
+  learning notes instead of appearing as internal placeholder labels.
+
+### 本次更新
+
+- 《绎言》现在可以通过 iCloud 同步已完成的学习记录、书签和删除操作，离开
+  Mac 后也能在 iPhone 伴侣应用中继续学习。
+- 设置中新增了 iCloud 同步区域，可以开启同步、查看同步进度，也可以在不再
+  需要时移除保存在 iCloud 中的学习资料。
+- 学习笔记中的命令、文件路径、链接和其他原样文本现在会保持清晰可读，不再
+  显示为内部占位标记。
+
+<!-- release-notes:260801.0:end -->
 <!-- release-notes:260731.1:start -->
 ## 260731.1
 
