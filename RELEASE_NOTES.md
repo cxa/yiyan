@@ -1,5 +1,18 @@
 # Release notes
 
+<!-- release-notes:260731.1:start -->
+## 260731.1
+
+### What’s new
+
+- Settings now opens reliably when YiYan is using English.
+
+### 本次更新
+
+- 使用英文界面时，《绎言》的设置窗口现在可以正常打开，不会再导致应用意外
+  退出。
+
+<!-- release-notes:260731.1:end -->
 <!-- release-notes:260731.0:start -->
 ## 260731.0
 
