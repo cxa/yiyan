@@ -3,6 +3,31 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260731.0</title>
+            <pubDate>Fri, 31 Jul 2026 10:09:22 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2607.31.0</sparkle:version>
+            <sparkle:shortVersionString>260731.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s new
+
+- YiYan now follows your Mac’s language in English, Simplified Chinese,
+  Traditional Chinese, Spanish, Brazilian Portuguese, French, German,
+  Japanese, Korean, Russian, Arabic, and Hindi.
+- Chinese Settings titles now use proper book title marks, while every other
+  language uses its natural title style.
+
+## 本次更新
+
+- 《绎言》现在可以跟随 Mac，以英语、简体中文、繁体中文、西班牙语、巴西
+  葡萄牙语、法语、德语、日语、韩语、俄语、阿拉伯语和印地语显示界面。
+- 中文设置窗口的标题现在规范显示为“《绎言》设置”，其他语言则使用各自自然
+  的标题格式。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260731.0/YiYan-260731.0.dmg" length="6391652" type="application/octet-stream" sparkle:edSignature="lpQQxMRQJF3GeBu9cuPJYIpYy+GjYdfKoQ9yFTU5ENTtd/+8NHuTYXrHGcRpDPAAxbEHERyYc4BORm9lZ8G/BA=="/>
+        </item>
+        <item>
             <title>260730.0</title>
             <pubDate>Thu, 30 Jul 2026 19:54:41 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -96,42 +121,6 @@
   记录，内容只聚焦于你真正写下的消息。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260729.0/YiYan-260729.0.dmg" length="6077338" type="application/octet-stream" sparkle:edSignature="Xz1QsfH3MKOF0prNbQDb76872qOaXBH6A5Mozi2l/DpV8GkBtKoxrVMHjIj2+DhmvL10N6FXcdnmWfMorcFsDw=="/>
-        </item>
-        <item>
-            <title>260728.0</title>
-            <pubDate>Tue, 28 Jul 2026 15:53:42 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2607.28.1</sparkle:version>
-            <sparkle:shortVersionString>260728.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
-
-- Claude conversations now keep capturing later messages instead of stopping
-  after the first one.
-- Background task notices, history copied into Codex branch tasks, and other
-  system-only messages are skipped, so unrelated or repeated cards do not
-  enter your learning history.
-- Several new messages no longer start the same work again and again.
-  Unfinished items left by an interruption or an older version continue
-  automatically when the app opens again.
-- When items have been waiting too long, a clear notice lets you restart them
-  or remove only the waiting items. Completed learning stays untouched.
-- Cards and copied rewrites no longer show formatting marks such as extra
-  asterisks or underscores, making them easier to read.
-
-## 本次更新
-
-- 在 Claude 中连续对话时，现在会继续收录后续消息，不再只保留第一条。
-- 后台任务通知、Codex 分支任务中复制的历史内容以及其他系统消息会被自动
-  跳过，避免无关或重复的卡片进入学习记录。
-- 多条新消息同时出现时，不会反复启动同一批处理。意外中断或旧版本留下的
-  等待内容，会在重新打开后自动继续。
-- 等待时间过长时会出现明确提示，可以重新处理或只移除等待中的内容；已经
-  完成的学习记录会保留。
-- 卡片和复制出的表达不再显示多余的星号、下划线等格式符号，阅读更清爽。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260728.0/YiYan-260728.0.dmg" length="6076602" type="application/octet-stream" sparkle:edSignature="oBTRwV8GxPlGr13ULx9yFHL7x7aBI79ulJUsYJmbJ+sFEh8EiRpDfsg+Guxu66EgqcvDGswUnAZDKG/f2GKtCA=="/>
         </item>
     </channel>
 </rss>

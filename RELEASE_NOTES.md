@@ -1,5 +1,24 @@
 # Release notes
 
+<!-- release-notes:260731.0:start -->
+## 260731.0
+
+### What’s new
+
+- YiYan now follows your Mac’s language in English, Simplified Chinese,
+  Traditional Chinese, Spanish, Brazilian Portuguese, French, German,
+  Japanese, Korean, Russian, Arabic, and Hindi.
+- Chinese Settings titles now use proper book title marks, while every other
+  language uses its natural title style.
+
+### 本次更新
+
+- 《绎言》现在可以跟随 Mac，以英语、简体中文、繁体中文、西班牙语、巴西
+  葡萄牙语、法语、德语、日语、韩语、俄语、阿拉伯语和印地语显示界面。
+- 中文设置窗口的标题现在规范显示为“《绎言》设置”，其他语言则使用各自自然
+  的标题格式。
+
+<!-- release-notes:260731.0:end -->
 <!-- release-notes:260730.0:start -->
 ## 260730.0
 
