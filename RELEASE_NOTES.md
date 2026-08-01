@@ -1,5 +1,22 @@
 # Release notes
 
+<!-- release-notes:260801.2:start -->
+## 260801.2
+
+### What’s new
+
+- YiYan now lets you choose System, Light, or Dark appearance from the aA
+  menu or Settings, and remembers your choice.
+- The main window background now blends naturally with the selected appearance
+  in both Light and Dark modes.
+
+### 本次更新
+
+- 《绎言》现在可以在 aA 菜单或设置中选择跟随系统、浅色或深色外观，并会
+  记住你的选择。
+- 主窗口背景现在会自然适配所选外观，在浅色和深色模式下都更协调。
+
+<!-- release-notes:260801.2:end -->
 <!-- release-notes:260801.1:start -->
 ## 260801.1
 

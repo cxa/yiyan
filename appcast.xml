@@ -3,6 +3,29 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260801.2</title>
+            <pubDate>Sat, 01 Aug 2026 11:20:55 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.01.2</sparkle:version>
+            <sparkle:shortVersionString>260801.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s new
+
+- YiYan now lets you choose System, Light, or Dark appearance from the aA
+  menu or Settings, and remembers your choice.
+- The main window background now blends naturally with the selected appearance
+  in both Light and Dark modes.
+
+### 本次更新
+
+- 《绎言》现在可以在 aA 菜单或设置中选择跟随系统、浅色或深色外观，并会
+  记住你的选择。
+- 主窗口背景现在会自然适配所选外观，在浅色和深色模式下都更协调。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.2/YiYan-260801.2.dmg" length="7052639" type="application/octet-stream" sparkle:edSignature="qWohysOGLIgu+lfNfztEe0USaZ3z29zcVHSk3x2gKgrvFATayO6YSbi8ZldYEBg1NaM49PDZ2zLsJU5BvBXnAw=="/>
+        </item>
+        <item>
             <title>260801.1</title>
             <pubDate>Sat, 01 Aug 2026 08:14:59 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -96,25 +119,6 @@
   的标题格式。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260731.0/YiYan-260731.0.dmg" length="6391652" type="application/octet-stream" sparkle:edSignature="lpQQxMRQJF3GeBu9cuPJYIpYy+GjYdfKoQ9yFTU5ENTtd/+8NHuTYXrHGcRpDPAAxbEHERyYc4BORm9lZ8G/BA=="/>
-        </item>
-        <item>
-            <title>260730.0</title>
-            <pubDate>Thu, 30 Jul 2026 19:54:41 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2607.30.0</sparkle:version>
-            <sparkle:shortVersionString>260730.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s new
-
-- Example labels now stay clear and readable in Dark Mode and automatically
-  match your Mac’s appearance.
-
-### 本次更新
-
-- 深色模式下，示例标签现在清晰可读，并会自动匹配 Mac 的外观。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260730.0/YiYan-260730.0.dmg" length="6308495" type="application/octet-stream" sparkle:edSignature="xuDeRbJTWwwWZga3P0ul+tgLdRGCBu2n+Xm0wMmKdm0STTHsjr3/9dMQbB3UShBmGkUROsmV1Z+hWJSYGRoRCA=="/>
         </item>
     </channel>
 </rss>
