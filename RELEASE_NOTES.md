@@ -1,5 +1,20 @@
 # Release notes
 
+<!-- release-notes:260801.1:start -->
+## 260801.1
+
+### What’s new
+
+- The iCloud Sync section in Settings now includes a direct link to the
+  iPhone companion, making it easier to continue reviewing away from your
+  Mac.
+
+### 本次更新
+
+- 《绎言》的 iCloud 同步设置现在提供直达 iPhone 伴侣应用的入口，离开 Mac
+  后继续复习更加方便。
+
+<!-- release-notes:260801.1:end -->
 <!-- release-notes:260801.0:start -->
 ## 260801.0
 
