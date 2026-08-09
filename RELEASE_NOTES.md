@@ -1,5 +1,26 @@
 # Release notes
 
+<!-- release-notes:260809.0:start -->
+## 260809.0
+
+### What’s new
+
+- YiYan now works with OpenCode, automatically collecting new prompts and
+  returning an English rendering and focused learning guidance through the
+  same host.
+- OpenCode joins Pi, Claude Code, and Codex in the first-run guide and learning
+  record source labels, so it is clear where each entry came from.
+- The iPhone companion now presents sync status more cleanly in Settings.
+
+### 本次更新
+
+- 《绎言》现在支持 OpenCode，可自动采集新输入，并通过同一来源生成自然英文
+  表达和有针对性的学习建议。
+- OpenCode 现已加入首次使用引导和学习记录的来源标识，方便看清每条内容来自
+  哪里。
+- iPhone 伴侣应用的同步状态在设置中显示得更加清晰整齐。
+
+<!-- release-notes:260809.0:end -->
 <!-- release-notes:260801.2:start -->
 ## 260801.2
 
