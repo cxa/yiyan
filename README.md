@@ -7,7 +7,7 @@ notes.
 ## Install
 
 <!-- release-summary-en:start -->
-Latest version: `260809.0`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
+Latest version: `YiYan-260809.0.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
 <!-- release-summary-en:end -->
 
 **Direct download**
@@ -56,7 +56,7 @@ YiYan is not open source.
 ## 安装
 
 <!-- release-summary-zh:start -->
-最新版本：`260809.0`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
+最新版本：`YiYan-260809.0.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
 <!-- release-summary-zh:end -->
 
 **直接下载**
