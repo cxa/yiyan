@@ -3,6 +3,41 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260811.0</title>
+            <pubDate>Tue, 11 Aug 2026 15:59:38 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.11.0</sparkle:version>
+            <sparkle:shortVersionString>260811.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s new
+
+- YiYan now accepts text you type or paste, labels it as Me, and automatically
+  uses the most recently successful or currently available signed-in assistant
+  on your Mac, with no extra setup.
+- Refine text in any editable field from the menu bar, the Services menu, or a
+  customizable global shortcut. Selected text is replaced in place; without a
+  selection, the refined version is appended after two blank lines so the
+  original stays intact.
+- The menu bar now offers a direct refinement command and shows a subtle
+  branded activity indicator while YiYan is working.
+- The main input area now uses the available width, grows with longer text up
+  to a comfortable limit, and explains submission or line breaks according to
+  your shortcut preference.
+
+## 本次更新
+
+- 《绎言》现在支持直接输入或粘贴文字，来源会标记为“我”，并自动使用最近
+  成功或当前已登录且可用的本机语言助手，无需额外设置。
+- 在任意可编辑输入框中，都可以通过菜单栏、系统服务或自定义全局快捷键润色
+  文字。选中内容会原位替换；未选中时，结果会在空两行后追加，保留原文。
+- 菜单栏新增直接润色入口，并在处理期间以低调的品牌动态提示进度。
+- 主界面输入区域现在会充分利用可用宽度，随内容自动增高并保留舒适的最大
+  高度；发送和换行提示也会随你的快捷键偏好变化。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.0/YiYan-260811.0.dmg" length="7664246" type="application/octet-stream" sparkle:edSignature="oXilNbiK5KDUDF8IL51nczk+OOmd6CDjGmFMI9eyh7krGulnLDeVXea3B3ovhL/NDGS+GQnyNf4X/SC1NzdgAQ=="/>
+        </item>
+        <item>
             <title>260809.0</title>
             <pubDate>Sun, 09 Aug 2026 09:30:59 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -102,25 +137,6 @@
   显示为内部占位标记。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.0/YiYan-260801.0.dmg" length="6985818" type="application/octet-stream" sparkle:edSignature="uoQpkMEpqOCyIBT9ta4jie5NqctPvpQesD0DRmNF3eqxWE9KeSWtP1t5h8F0EOyf7Hp2GZ9fKKx5MiMDX68dDA=="/>
-        </item>
-        <item>
-            <title>260731.1</title>
-            <pubDate>Fri, 31 Jul 2026 15:38:53 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2607.31.1</sparkle:version>
-            <sparkle:shortVersionString>260731.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
-
-- Settings now opens reliably when YiYan is using English.
-
-## 本次更新
-
-- 使用英文界面时，《绎言》的设置窗口现在可以正常打开，不会再导致应用意外
-  退出。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260731.1/YiYan-260731.1.dmg" length="6424756" type="application/octet-stream" sparkle:edSignature="jba55xedskR/HbfIuLg8+72DG2jhtPugm+XbSDjuqYQ2np+Cr+OtFAuMI2yaSprW3U0LdEtAEXlVJ7WFpyeNBg=="/>
         </item>
     </channel>
 </rss>

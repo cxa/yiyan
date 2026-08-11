@@ -1,5 +1,34 @@
 # Release notes
 
+<!-- release-notes:260811.0:start -->
+## 260811.0
+
+### What’s new
+
+- YiYan now accepts text you type or paste, labels it as Me, and automatically
+  uses the most recently successful or currently available signed-in assistant
+  on your Mac, with no extra setup.
+- Refine text in any editable field from the menu bar, the Services menu, or a
+  customizable global shortcut. Selected text is replaced in place; without a
+  selection, the refined version is appended after two blank lines so the
+  original stays intact.
+- The menu bar now offers a direct refinement command and shows a subtle
+  branded activity indicator while YiYan is working.
+- The main input area now uses the available width, grows with longer text up
+  to a comfortable limit, and explains submission or line breaks according to
+  your shortcut preference.
+
+### 本次更新
+
+- 《绎言》现在支持直接输入或粘贴文字，来源会标记为“我”，并自动使用最近
+  成功或当前已登录且可用的本机语言助手，无需额外设置。
+- 在任意可编辑输入框中，都可以通过菜单栏、系统服务或自定义全局快捷键润色
+  文字。选中内容会原位替换；未选中时，结果会在空两行后追加，保留原文。
+- 菜单栏新增直接润色入口，并在处理期间以低调的品牌动态提示进度。
+- 主界面输入区域现在会充分利用可用宽度，随内容自动增高并保留舒适的最大
+  高度；发送和换行提示也会随你的快捷键偏好变化。
+
+<!-- release-notes:260811.0:end -->
 <!-- release-notes:260809.0:start -->
 ## 260809.0
 
