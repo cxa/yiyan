@@ -3,6 +3,26 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260811.1</title>
+            <pubDate>Tue, 11 Aug 2026 16:45:59 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.11.1</sparkle:version>
+            <sparkle:shortVersionString>260811.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s fixed
+
+- YiYan now opens reliably after a fresh installation on another Mac.
+- Opening Settings no longer causes the app to quit unexpectedly.
+
+## 本次修复
+
+- 《绎言》现在可以在另一台 Mac 全新安装后可靠打开。
+- 打开设置时不再导致应用意外退出。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.1/YiYan-260811.1.dmg" length="7812977" type="application/octet-stream" sparkle:edSignature="o/gNrBQd05c6+figd3WwoI38IIYfwn7bPbQjGnr5SP5QssGkbppxcJR3srhy5nSe+Ytnv18zZP0fUcaVI/9YCw=="/>
+        </item>
+        <item>
             <title>260811.0</title>
             <pubDate>Tue, 11 Aug 2026 15:59:38 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -107,36 +127,6 @@
   后继续复习更加方便。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.1/YiYan-260801.1.dmg" length="6946647" type="application/octet-stream" sparkle:edSignature="iftuFMl0sMuVXmG3fBbaRuqOIdKyDX1r7ae2qeiwO/waFT8G1wUQoTsU1bWEMiR7Mvif+vdSXuRYUsWE9judDg=="/>
-        </item>
-        <item>
-            <title>260801.0</title>
-            <pubDate>Sat, 01 Aug 2026 00:51:10 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.01.0</sparkle:version>
-            <sparkle:shortVersionString>260801.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s new
-
-- YiYan can now keep completed learning records, bookmarks, and deletions up
-  to date through iCloud, so you can continue learning with the iPhone
-  companion while away from your Mac.
-- A new iCloud Sync section in Settings lets you turn syncing on, follow its
-  progress, or remove your synced learning library when you no longer want
-  it in iCloud.
-- Commands, file paths, links, and other literal text now stay readable in
-  learning notes instead of appearing as internal placeholder labels.
-
-### 本次更新
-
-- 《绎言》现在可以通过 iCloud 同步已完成的学习记录、书签和删除操作，离开
-  Mac 后也能在 iPhone 伴侣应用中继续学习。
-- 设置中新增了 iCloud 同步区域，可以开启同步、查看同步进度，也可以在不再
-  需要时移除保存在 iCloud 中的学习资料。
-- 学习笔记中的命令、文件路径、链接和其他原样文本现在会保持清晰可读，不再
-  显示为内部占位标记。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.0/YiYan-260801.0.dmg" length="6985818" type="application/octet-stream" sparkle:edSignature="uoQpkMEpqOCyIBT9ta4jie5NqctPvpQesD0DRmNF3eqxWE9KeSWtP1t5h8F0EOyf7Hp2GZ9fKKx5MiMDX68dDA=="/>
         </item>
     </channel>
 </rss>

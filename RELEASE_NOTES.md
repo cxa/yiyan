@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:260811.1:start -->
+## 260811.1
+
+### What’s fixed
+
+- YiYan now opens reliably after a fresh installation on another Mac.
+- Opening Settings no longer causes the app to quit unexpectedly.
+
+### 本次修复
+
+- 《绎言》现在可以在另一台 Mac 全新安装后可靠打开。
+- 打开设置时不再导致应用意外退出。
+
+<!-- release-notes:260811.1:end -->
 <!-- release-notes:260811.0:start -->
 ## 260811.0
 
