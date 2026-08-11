@@ -1,5 +1,20 @@
 # Release notes
 
+<!-- release-notes:260811.2:start -->
+## 260811.2
+
+### What’s improved
+
+- The menu bar now shows your current global shortcuts next to Open YiYan and
+  Refine Focused Input, and updates them automatically when you customize or
+  clear either shortcut.
+
+### 本次改进
+
+- 菜单栏现在会在“打开《绎言》”和“润色当前输入”右侧显示当前的全局快捷键；
+  自定义或清除快捷键后，显示也会自动更新。
+
+<!-- release-notes:260811.2:end -->
 <!-- release-notes:260811.1:start -->
 ## 260811.1
 

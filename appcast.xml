@@ -3,6 +3,27 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260811.2</title>
+            <pubDate>Tue, 11 Aug 2026 17:13:00 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.11.2</sparkle:version>
+            <sparkle:shortVersionString>260811.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s improved
+
+- The menu bar now shows your current global shortcuts next to Open YiYan and
+  Refine Focused Input, and updates them automatically when you customize or
+  clear either shortcut.
+
+## 本次改进
+
+- 菜单栏现在会在“打开《绎言》”和“润色当前输入”右侧显示当前的全局快捷键；
+  自定义或清除快捷键后，显示也会自动更新。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.2/YiYan-260811.2.dmg" length="7812504" type="application/octet-stream" sparkle:edSignature="anR9br+qtjW7G1rkjgGhBIJGsZSuwXKcIVSKxcM72Hsc7Lhp3PZskqCBvfo/fApQdY/bagiTpXOjVBpkGQsoBQ=="/>
+        </item>
+        <item>
             <title>260811.1</title>
             <pubDate>Tue, 11 Aug 2026 16:45:59 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -104,27 +125,6 @@
 - 主窗口背景现在会自然适配所选外观，在浅色和深色模式下都更协调。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.2/YiYan-260801.2.dmg" length="7052639" type="application/octet-stream" sparkle:edSignature="qWohysOGLIgu+lfNfztEe0USaZ3z29zcVHSk3x2gKgrvFATayO6YSbi8ZldYEBg1NaM49PDZ2zLsJU5BvBXnAw=="/>
-        </item>
-        <item>
-            <title>260801.1</title>
-            <pubDate>Sat, 01 Aug 2026 08:14:59 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.01.1</sparkle:version>
-            <sparkle:shortVersionString>260801.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s new
-
-- The iCloud Sync section in Settings now includes a direct link to the
-  iPhone companion, making it easier to continue reviewing away from your
-  Mac.
-
-### 本次更新
-
-- 《绎言》的 iCloud 同步设置现在提供直达 iPhone 伴侣应用的入口，离开 Mac
-  后继续复习更加方便。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.1/YiYan-260801.1.dmg" length="6946647" type="application/octet-stream" sparkle:edSignature="iftuFMl0sMuVXmG3fBbaRuqOIdKyDX1r7ae2qeiwO/waFT8G1wUQoTsU1bWEMiR7Mvif+vdSXuRYUsWE9judDg=="/>
         </item>
     </channel>
 </rss>
