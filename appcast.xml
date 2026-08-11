@@ -12,12 +12,10 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## What’s fixed
 
-- YiYan now opens reliably after a fresh installation on another Mac.
 - Opening Settings no longer causes the app to quit unexpectedly.
 
 ## 本次修复
 
-- 《绎言》现在可以在另一台 Mac 全新安装后可靠打开。
 - 打开设置时不再导致应用意外退出。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.1/YiYan-260811.1.dmg" length="7812977" type="application/octet-stream" sparkle:edSignature="o/gNrBQd05c6+figd3WwoI38IIYfwn7bPbQjGnr5SP5QssGkbppxcJR3srhy5nSe+Ytnv18zZP0fUcaVI/9YCw=="/>
