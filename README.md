@@ -1,8 +1,6 @@
 # YiYan
 
-YiYan is a local companion for macOS 15 Sequoia or later that turns messages
-written in Pi, Claude Code, and Codex into natural English and focused learning
-notes.
+YiYan is a local companion for macOS 15 Sequoia or later that turns messages written in OpenCode, Pi, Claude Code, and Codex into natural English and focused learning notes.
 
 ## Install
 
@@ -39,9 +37,7 @@ brew uninstall --cask yiyan
 
 ## Privacy
 
-YiYan runs locally and observes only new user messages written to supported
-hosts' local session files while the app is running. It does not store host
-replies, tool output, system messages, session IDs, or transcript paths.
+YiYan runs locally and observes only new user messages written to supported hosts' local session files while the app is running. It does not store host replies, tool output, system messages, session IDs, or transcript paths.
 
 ## License
 
