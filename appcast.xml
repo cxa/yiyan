@@ -3,6 +3,29 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260814.0</title>
+            <pubDate>Fri, 14 Aug 2026 22:43:07 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.14.0</sparkle:version>
+            <sparkle:shortVersionString>260814.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s improved
+
+- The manual input area now stays at a comfortable width and aligns to the
+  right in wide windows, making it easier to focus on what you are writing.
+- The submit button now grows with your chosen text size and stays aligned
+  with the input field.
+
+### 本次改进
+
+- 主界面的输入区域现在会在宽窗口中保持舒适宽度并靠右排列，输入时更容易
+  集中注意力。
+- 发送按钮现在会随所选字号一起增大，并与输入框保持协调。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260814.0/YiYan-260814.0.dmg" length="7816777" type="application/octet-stream" sparkle:edSignature="3wsj6yjQRB1fFyulVyx5JfEQ5p9QyciFSFANZGGz+TOYmsVsugs5oct8RTlb6QrHhgEfiystk5GWXry337FcAA=="/>
+        </item>
+        <item>
             <title>260811.2</title>
             <pubDate>Tue, 11 Aug 2026 17:13:00 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -102,29 +125,6 @@
 - iPhone 伴侣应用的同步状态在设置中显示得更加清晰整齐。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260809.0/YiYan-260809.0.dmg" length="7139869" type="application/octet-stream" sparkle:edSignature="LH/sRN7NgWF2A8Ej0sKYyTKuKR9Q6tx1M1RvR703Z3PqYBIzfvLFgqDyW73buH+szPwfyNSATddeV5QhAxcICg=="/>
-        </item>
-        <item>
-            <title>260801.2</title>
-            <pubDate>Sat, 01 Aug 2026 11:20:55 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.01.2</sparkle:version>
-            <sparkle:shortVersionString>260801.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s new
-
-- YiYan now lets you choose System, Light, or Dark appearance from the aA
-  menu or Settings, and remembers your choice.
-- The main window background now blends naturally with the selected appearance
-  in both Light and Dark modes.
-
-### 本次更新
-
-- 《绎言》现在可以在 aA 菜单或设置中选择跟随系统、浅色或深色外观，并会
-  记住你的选择。
-- 主窗口背景现在会自然适配所选外观，在浅色和深色模式下都更协调。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260801.2/YiYan-260801.2.dmg" length="7052639" type="application/octet-stream" sparkle:edSignature="qWohysOGLIgu+lfNfztEe0USaZ3z29zcVHSk3x2gKgrvFATayO6YSbi8ZldYEBg1NaM49PDZ2zLsJU5BvBXnAw=="/>
         </item>
     </channel>
 </rss>

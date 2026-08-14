@@ -1,5 +1,22 @@
 # Release notes
 
+<!-- release-notes:260814.0:start -->
+## 260814.0
+
+### What’s improved
+
+- The manual input area now stays at a comfortable width and aligns to the
+  right in wide windows, making it easier to focus on what you are writing.
+- The submit button now grows with your chosen text size and stays aligned
+  with the input field.
+
+### 本次改进
+
+- 主界面的输入区域现在会在宽窗口中保持舒适宽度并靠右排列，输入时更容易
+  集中注意力。
+- 发送按钮现在会随所选字号一起增大，并与输入框保持协调。
+
+<!-- release-notes:260814.0:end -->
 <!-- release-notes:260811.2:start -->
 ## 260811.2
 
