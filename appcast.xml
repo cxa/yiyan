@@ -3,6 +3,31 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260819.0</title>
+            <pubDate>Wed, 19 Aug 2026 13:17:22 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.19.0</sparkle:version>
+            <sparkle:shortVersionString>260819.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s fixed
+
+- Refining text in Chrome and other web editors now updates the visible input
+  reliably, so the text and character count stay in sync.
+- If the original web input briefly loses focus while refinement is running,
+  YiYan now returns to it and completes the write-back when the page and text
+  have not changed.
+
+### 本次修复
+
+- 在 Chrome 等网页输入框中润色时，回写内容现在会正常显示，文字与字数统计
+  保持一致。
+- 润色过程中即使原输入框暂时失去焦点，只要仍在同一网页且原文未变化，
+  《绎言》也会回到原输入框完成回写。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260819.0/YiYan-260819.0.dmg" length="7823719" type="application/octet-stream" sparkle:edSignature="6PFxScGp0rssYm8P7IAHFwu3nJhsowk9JBsCSKSt7LFMEjA7OzR82gA7bUegfPp+OPi7x7Lk66TTxjxOuvWoBw=="/>
+        </item>
+        <item>
             <title>260814.0</title>
             <pubDate>Fri, 14 Aug 2026 22:43:07 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -98,33 +123,6 @@
   高度；发送和换行提示也会随你的快捷键偏好变化。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.0/YiYan-260811.0.dmg" length="7664246" type="application/octet-stream" sparkle:edSignature="oXilNbiK5KDUDF8IL51nczk+OOmd6CDjGmFMI9eyh7krGulnLDeVXea3B3ovhL/NDGS+GQnyNf4X/SC1NzdgAQ=="/>
-        </item>
-        <item>
-            <title>260809.0</title>
-            <pubDate>Sun, 09 Aug 2026 09:30:59 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.09.0</sparkle:version>
-            <sparkle:shortVersionString>260809.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
-
-- YiYan now works with OpenCode, automatically collecting new prompts and
-  returning an English rendering and focused learning guidance through the
-  same host.
-- OpenCode joins Pi, Claude Code, and Codex in the first-run guide and learning
-  record source labels, so it is clear where each entry came from.
-- The iPhone companion now presents sync status more cleanly in Settings.
-
-## 本次更新
-
-- 《绎言》现在支持 OpenCode，可自动采集新输入，并通过同一来源生成自然英文
-  表达和有针对性的学习建议。
-- OpenCode 现已加入首次使用引导和学习记录的来源标识，方便看清每条内容来自
-  哪里。
-- iPhone 伴侣应用的同步状态在设置中显示得更加清晰整齐。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260809.0/YiYan-260809.0.dmg" length="7139869" type="application/octet-stream" sparkle:edSignature="LH/sRN7NgWF2A8Ej0sKYyTKuKR9Q6tx1M1RvR703Z3PqYBIzfvLFgqDyW73buH+szPwfyNSATddeV5QhAxcICg=="/>
         </item>
     </channel>
 </rss>

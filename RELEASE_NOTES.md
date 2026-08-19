@@ -1,5 +1,24 @@
 # Release notes
 
+<!-- release-notes:260819.0:start -->
+## 260819.0
+
+### What’s fixed
+
+- Refining text in Chrome and other web editors now updates the visible input
+  reliably, so the text and character count stay in sync.
+- If the original web input briefly loses focus while refinement is running,
+  YiYan now returns to it and completes the write-back when the page and text
+  have not changed.
+
+### 本次修复
+
+- 在 Chrome 等网页输入框中润色时，回写内容现在会正常显示，文字与字数统计
+  保持一致。
+- 润色过程中即使原输入框暂时失去焦点，只要仍在同一网页且原文未变化，
+  《绎言》也会回到原输入框完成回写。
+
+<!-- release-notes:260819.0:end -->
 <!-- release-notes:260814.0:start -->
 ## 260814.0
 
