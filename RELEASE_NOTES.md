@@ -1,5 +1,20 @@
 # Release notes
 
+<!-- release-notes:260822.1:start -->
+## 260822.1
+
+### What’s improved
+
+- YiYan now skips messages that contain only a web link, keeping your learning
+  history focused on writing worth reviewing. Sentences that include a link
+  continue to be collected as usual.
+
+### 本次改进
+
+- 《绎言》现在会跳过只包含网页链接的消息，让学习记录更专注于值得回顾的
+  表达；包含链接的完整句子仍会照常收录。
+
+<!-- release-notes:260822.1:end -->
 <!-- release-notes:260822.0:start -->
 ## 260822.0
 

@@ -3,6 +3,27 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260822.1</title>
+            <pubDate>Sat, 22 Aug 2026 21:49:32 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.22.1</sparkle:version>
+            <sparkle:shortVersionString>260822.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s improved
+
+- YiYan now skips messages that contain only a web link, keeping your learning
+  history focused on writing worth reviewing. Sentences that include a link
+  continue to be collected as usual.
+
+### 本次改进
+
+- 《绎言》现在会跳过只包含网页链接的消息，让学习记录更专注于值得回顾的
+  表达；包含链接的完整句子仍会照常收录。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260822.1/YiYan-260822.1.dmg" length="7854424" type="application/octet-stream" sparkle:edSignature="gLSqTC5f1UQqRYsUzdfCyF9USyKlcEwcI7IWJ82cmqw1rG9SmoLWsPl7k+9eB/CihVA1KQ76Jged+05+ceAADg=="/>
+        </item>
+        <item>
             <title>260822.0</title>
             <pubDate>Sat, 22 Aug 2026 13:59:31 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -94,24 +115,6 @@
   自定义或清除快捷键后，显示也会自动更新。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.2/YiYan-260811.2.dmg" length="7812504" type="application/octet-stream" sparkle:edSignature="anR9br+qtjW7G1rkjgGhBIJGsZSuwXKcIVSKxcM72Hsc7Lhp3PZskqCBvfo/fApQdY/bagiTpXOjVBpkGQsoBQ=="/>
-        </item>
-        <item>
-            <title>260811.1</title>
-            <pubDate>Tue, 11 Aug 2026 16:45:59 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.11.1</sparkle:version>
-            <sparkle:shortVersionString>260811.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s fixed
-
-- Opening Settings no longer causes the app to quit unexpectedly.
-
-## 本次修复
-
-- 打开设置时不再导致应用意外退出。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.1/YiYan-260811.1.dmg" length="7812977" type="application/octet-stream" sparkle:edSignature="o/gNrBQd05c6+figd3WwoI38IIYfwn7bPbQjGnr5SP5QssGkbppxcJR3srhy5nSe+Ytnv18zZP0fUcaVI/9YCw=="/>
         </item>
     </channel>
 </rss>

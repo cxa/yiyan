@@ -1,6 +1,6 @@
 cask "yiyan" do
-  version "260822.0"
-  sha256 "869a41f80eacadefce2de04ae7cb2e02249d01f0f3c89755fa3b97940e2c78aa"
+  version "260822.1"
+  sha256 "2f2e3856fb253803e91442e64d448ae99689c6881031fd8a28bc835661161825"
 
   url "https://github.com/cxa/yiyan/releases/download/v#{version}/YiYan-#{version}.dmg"
   name "YiYan"
