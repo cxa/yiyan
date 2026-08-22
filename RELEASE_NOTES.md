@@ -1,5 +1,23 @@
 # Release notes
 
+<!-- release-notes:260822.0:start -->
+## 260822.0
+
+### What’s new
+
+- YiYan now works with Antigravity, automatically collecting new prompts and
+  returning natural English and focused learning guidance through Antigravity.
+- Antigravity appears by its full name in the first-run guide and learning
+  record source labels, so each entry is easy to identify.
+
+### 本次更新
+
+- 《绎言》现已支持 Antigravity，可自动采集新输入，并通过 Antigravity
+  生成自然英文表达和有针对性的学习建议。
+- 首次使用引导和学习记录来源现在会显示 Antigravity 的完整名称，方便看清
+  每条内容来自哪里。
+
+<!-- release-notes:260822.0:end -->
 <!-- release-notes:260819.0:start -->
 ## 260819.0
 
