@@ -1,6 +1,8 @@
 # YiYan
 
-YiYan is a local companion for macOS 15 Sequoia or later that turns messages written in OpenCode, Pi, Claude Code, and Codex into natural English and focused learning notes.
+YiYan is a local companion for macOS 15 Sequoia or later that turns messages
+written in Pi, Claude Code, Codex, OpenCode, and Antigravity into natural
+English and focused learning notes.
 
 ## Install
 
@@ -47,7 +49,9 @@ YiYan is not open source.
 
 # 《绎言》
 
-《绎言》是一款适用于 macOS 15 Sequoia 或更高版本、完全在本地运行的学习助手，可将用户在 Pi、Claude Code 和 Codex 中输入的消息整理为自然英语表达和有针对性的学习笔记。
+《绎言》是一款适用于 macOS 15 Sequoia 或更高版本、完全在本地运行的学习
+助手，可将用户在 Pi、Claude Code、Codex、OpenCode 和 Antigravity 中输入的
+消息整理为自然英语表达和有针对性的学习笔记。
 
 ## 安装
 
@@ -84,7 +88,9 @@ brew uninstall --cask yiyan
 
 ## 隐私
 
-《绎言》只会处理你在它运行期间新发给 Pi、Claude Code 或 Codex 的消息，用来生成英文改写和学习笔记。它不会处理过去的聊天，也不会收集 AI 的回复或工具运行结果。生成的学习记录只保存在你的 Mac 上。
+《绎言》只会处理你在它运行期间新发给 Pi、Claude Code、Codex、OpenCode 或
+Antigravity 的消息，用来生成英文改写和学习笔记。它不会处理过去的聊天，也
+不会收集 AI 的回复或工具运行结果。生成的学习记录只保存在你的 Mac 上。
 
 ## 许可
 
