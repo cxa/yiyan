@@ -3,6 +3,26 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260823.0</title>
+            <pubDate>Sun, 23 Aug 2026 13:21:17 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.23.0</sparkle:version>
+            <sparkle:shortVersionString>260823.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s fixed
+
+- YiYan once again automatically collects prompts from the latest Codex
+  versions. Existing Codex setups continue to work without changes.
+
+### 本次修复
+
+- 《绎言》现已恢复自动采集新版 Codex 中的输入；现有 Codex 设置无需调整
+  即可继续使用。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260823.0/YiYan-260823.0.dmg" length="7877950" type="application/octet-stream" sparkle:edSignature="44z/g+7ETBNPEJMYPEWkOFpNaJmg3wdQqUMWXHj8DItsj9N2ULXOD/Pn4rkPBHKzT7XHXGH+Zaf2eux++HC6DA=="/>
+        </item>
+        <item>
             <title>260822.1</title>
             <pubDate>Sat, 22 Aug 2026 21:49:32 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -94,27 +114,6 @@
 - 发送按钮现在会随所选字号一起增大，并与输入框保持协调。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260814.0/YiYan-260814.0.dmg" length="7816777" type="application/octet-stream" sparkle:edSignature="3wsj6yjQRB1fFyulVyx5JfEQ5p9QyciFSFANZGGz+TOYmsVsugs5oct8RTlb6QrHhgEfiystk5GWXry337FcAA=="/>
-        </item>
-        <item>
-            <title>260811.2</title>
-            <pubDate>Tue, 11 Aug 2026 17:13:00 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.11.2</sparkle:version>
-            <sparkle:shortVersionString>260811.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s improved
-
-- The menu bar now shows your current global shortcuts next to Open YiYan and
-  Refine Focused Input, and updates them automatically when you customize or
-  clear either shortcut.
-
-## 本次改进
-
-- 菜单栏现在会在“打开《绎言》”和“润色当前输入”右侧显示当前的全局快捷键；
-  自定义或清除快捷键后，显示也会自动更新。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260811.2/YiYan-260811.2.dmg" length="7812504" type="application/octet-stream" sparkle:edSignature="anR9br+qtjW7G1rkjgGhBIJGsZSuwXKcIVSKxcM72Hsc7Lhp3PZskqCBvfo/fApQdY/bagiTpXOjVBpkGQsoBQ=="/>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:260823.0:start -->
+## 260823.0
+
+### What’s fixed
+
+- YiYan once again automatically collects prompts from the latest Codex
+  versions. Existing Codex setups continue to work without changes.
+
+### 本次修复
+
+- 《绎言》现已恢复自动采集新版 Codex 中的输入；现有 Codex 设置无需调整
+  即可继续使用。
+
+<!-- release-notes:260823.0:end -->
 <!-- release-notes:260822.1:start -->
 ## 260822.1
 
