@@ -3,6 +3,24 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260824.1</title>
+            <pubDate>Mon, 24 Aug 2026 23:07:03 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.24.1</sparkle:version>
+            <sparkle:shortVersionString>260824.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s fixed
+
+- Choosing Settings from the menu bar now reliably opens the Settings window.
+
+### 本次修复
+
+- 从菜单栏选择“设置”时，现在会可靠地打开设置窗口。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260824.1/YiYan-260824.1.dmg" length="7928457" type="application/octet-stream" sparkle:edSignature="GDqxGsIBF0GUMj/phB39tE7lzHnPXUG5LRwIKywlHHAfy1uI5myp0CJlDs/pF0W2HrE/JRuQkHkA6qWYmcnGDA=="/>
+        </item>
+        <item>
             <title>260824.0</title>
             <pubDate>Mon, 24 Aug 2026 22:25:24 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -90,31 +108,6 @@
   每条内容来自哪里。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260822.0/YiYan-260822.0.dmg" length="7842146" type="application/octet-stream" sparkle:edSignature="v+5fMsSQB9U1mzCkJxdnBwBRIfphwyajM7QePovwrkUGorm/hUPu+GYv7XjGR9J4HHjFSESW7xZoZBB3i6KuCg=="/>
-        </item>
-        <item>
-            <title>260819.0</title>
-            <pubDate>Wed, 19 Aug 2026 13:17:22 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.19.0</sparkle:version>
-            <sparkle:shortVersionString>260819.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s fixed
-
-- Refining text in Chrome and other web editors now updates the visible input
-  reliably, so the text and character count stay in sync.
-- If the original web input briefly loses focus while refinement is running,
-  YiYan now returns to it and completes the write-back when the page and text
-  have not changed.
-
-### 本次修复
-
-- 在 Chrome 等网页输入框中润色时，回写内容现在会正常显示，文字与字数统计
-  保持一致。
-- 润色过程中即使原输入框暂时失去焦点，只要仍在同一网页且原文未变化，
-  《绎言》也会回到原输入框完成回写。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260819.0/YiYan-260819.0.dmg" length="7823719" type="application/octet-stream" sparkle:edSignature="6PFxScGp0rssYm8P7IAHFwu3nJhsowk9JBsCSKSt7LFMEjA7OzR82gA7bUegfPp+OPi7x7Lk66TTxjxOuvWoBw=="/>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:260824.1:start -->
+## 260824.1
+
+### What’s fixed
+
+- Choosing Settings from the menu bar now reliably opens the Settings window.
+
+### 本次修复
+
+- 从菜单栏选择“设置”时，现在会可靠地打开设置窗口。
+
+<!-- release-notes:260824.1:end -->
 <!-- release-notes:260824.0:start -->
 ## 260824.0
 
