@@ -1,5 +1,23 @@
 # Release notes
 
+<!-- release-notes:260824.0:start -->
+## 260824.0
+
+### What’s improved
+
+- Messages added automatically by Codex or Claude Code, including interruption
+  notices and internal task instructions, are no longer saved as your writing.
+- The trash menu now lets you remove every failed record without a translation
+  at once, while completed and waiting records stay in place.
+
+### 本次改进
+
+- Codex 或 Claude Code 自动加入的中断提示和内部任务内容不再被当作你的文字
+  收录，学习记录更加干净。
+- 现在可以从垃圾桶菜单一次清除所有没有译文的失败记录；已完成和等待中的
+  记录会继续保留。
+
+<!-- release-notes:260824.0:end -->
 <!-- release-notes:260823.0:start -->
 ## 260823.0
 

@@ -3,6 +3,30 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260824.0</title>
+            <pubDate>Mon, 24 Aug 2026 22:25:24 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2608.24.0</sparkle:version>
+            <sparkle:shortVersionString>260824.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### What’s improved
+
+- Messages added automatically by Codex or Claude Code, including interruption
+  notices and internal task instructions, are no longer saved as your writing.
+- The trash menu now lets you remove every failed record without a translation
+  at once, while completed and waiting records stay in place.
+
+### 本次改进
+
+- Codex 或 Claude Code 自动加入的中断提示和内部任务内容不再被当作你的文字
+  收录，学习记录更加干净。
+- 现在可以从垃圾桶菜单一次清除所有没有译文的失败记录；已完成和等待中的
+  记录会继续保留。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260824.0/YiYan-260824.0.dmg" length="7914171" type="application/octet-stream" sparkle:edSignature="4e5821LwTEx4JZq225tUf+x3OEQAXcKWD9rhYEhUJXe2jaGowTS0qe2BFST3kqlYhCynhT4XoD68+L9CpnyDCA=="/>
+        </item>
+        <item>
             <title>260823.0</title>
             <pubDate>Sun, 23 Aug 2026 13:21:17 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -91,29 +115,6 @@
   《绎言》也会回到原输入框完成回写。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260819.0/YiYan-260819.0.dmg" length="7823719" type="application/octet-stream" sparkle:edSignature="6PFxScGp0rssYm8P7IAHFwu3nJhsowk9JBsCSKSt7LFMEjA7OzR82gA7bUegfPp+OPi7x7Lk66TTxjxOuvWoBw=="/>
-        </item>
-        <item>
-            <title>260814.0</title>
-            <pubDate>Fri, 14 Aug 2026 22:43:07 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.14.0</sparkle:version>
-            <sparkle:shortVersionString>260814.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s improved
-
-- The manual input area now stays at a comfortable width and aligns to the
-  right in wide windows, making it easier to focus on what you are writing.
-- The submit button now grows with your chosen text size and stays aligned
-  with the input field.
-
-### 本次改进
-
-- 主界面的输入区域现在会在宽窗口中保持舒适宽度并靠右排列，输入时更容易
-  集中注意力。
-- 发送按钮现在会随所选字号一起增大，并与输入框保持协调。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260814.0/YiYan-260814.0.dmg" length="7816777" type="application/octet-stream" sparkle:edSignature="3wsj6yjQRB1fFyulVyx5JfEQ5p9QyciFSFANZGGz+TOYmsVsugs5oct8RTlb6QrHhgEfiystk5GWXry337FcAA=="/>
         </item>
     </channel>
 </rss>
