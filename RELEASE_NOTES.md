@@ -1,5 +1,21 @@
 # Release notes
 
+<!-- release-notes:260906.0:start -->
+## 260906.0
+
+### 更新内容
+
+- 焕新应用图标，菜单栏标识更清晰，明暗主题统一为红色系。
+- 减少自动采集时混入的系统提示，只保留你在 Codex 中发送的内容。
+- 修复部分历史记录导致的跨设备同步中断，保留原有学习记录和复习进度。
+
+### What's new
+
+- A refreshed app icon, a clearer menu bar symbol, and coordinated red accents in light and dark mode.
+- More accurate capture of your Codex messages, without unrelated system messages.
+- Fixed a sync interruption caused by some older records, while preserving existing learning records and review progress.
+
+<!-- release-notes:260906.0:end -->
 <!-- release-notes:260824.1:start -->
 ## 260824.1
 

@@ -3,6 +3,28 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260906.0</title>
+            <pubDate>Sun, 06 Sep 2026 20:07:49 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2609.06.0</sparkle:version>
+            <sparkle:shortVersionString>260906.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## 更新内容
+
+- 焕新应用图标，菜单栏标识更清晰，明暗主题统一为红色系。
+- 减少自动采集时混入的系统提示，只保留你在 Codex 中发送的内容。
+- 修复部分历史记录导致的跨设备同步中断，保留原有学习记录和复习进度。
+
+## What's new
+
+- A refreshed app icon, a clearer menu bar symbol, and coordinated red accents in light and dark mode.
+- More accurate capture of your Codex messages, without unrelated system messages.
+- Fixed a sync interruption caused by some older records, while preserving existing learning records and review progress.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260906.0/YiYan-260906.0.dmg" length="8096583" type="application/octet-stream" sparkle:edSignature="jeI+an0KQQzCHNJ4FSxMinZMsVbnbJT3eYK382/hhHnkCeXJFD71/+WtdPh+Odxx25tMtZLVNcol6K+BC/lTDg=="/>
+        </item>
+        <item>
             <title>260824.1</title>
             <pubDate>Mon, 24 Aug 2026 23:07:03 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -84,30 +106,6 @@
   表达；包含链接的完整句子仍会照常收录。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260822.1/YiYan-260822.1.dmg" length="7854424" type="application/octet-stream" sparkle:edSignature="gLSqTC5f1UQqRYsUzdfCyF9USyKlcEwcI7IWJ82cmqw1rG9SmoLWsPl7k+9eB/CihVA1KQ76Jged+05+ceAADg=="/>
-        </item>
-        <item>
-            <title>260822.0</title>
-            <pubDate>Sat, 22 Aug 2026 13:59:31 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.22.0</sparkle:version>
-            <sparkle:shortVersionString>260822.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s new
-
-- YiYan now works with Antigravity, automatically collecting new prompts and
-  returning natural English and focused learning guidance through Antigravity.
-- Antigravity appears by its full name in the first-run guide and learning
-  record source labels, so each entry is easy to identify.
-
-### 本次更新
-
-- 《绎言》现已支持 Antigravity，可自动采集新输入，并通过 Antigravity
-  生成自然英文表达和有针对性的学习建议。
-- 首次使用引导和学习记录来源现在会显示 Antigravity 的完整名称，方便看清
-  每条内容来自哪里。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260822.0/YiYan-260822.0.dmg" length="7842146" type="application/octet-stream" sparkle:edSignature="v+5fMsSQB9U1mzCkJxdnBwBRIfphwyajM7QePovwrkUGorm/hUPu+GYv7XjGR9J4HHjFSESW7xZoZBB3i6KuCg=="/>
         </item>
     </channel>
 </rss>
