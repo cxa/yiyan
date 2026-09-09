@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:260909.0:start -->
+## 260909.0
+
+### 更新内容
+
+- 改善 Mail 撰写窗口中正文和选中文字的润色支持。
+- 修复 Microsoft Teams 已填回润色结果，却提示输入发生变化的问题。
+
+### What’s new
+
+- Improved refinement of message text and selections in Mail compose windows.
+- Fixed an incorrect “input changed” message after refined text was inserted in Microsoft Teams.
+
+<!-- release-notes:260909.0:end -->
 <!-- release-notes:260906.0:start -->
 ## 260906.0
 

@@ -3,6 +3,26 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260909.0</title>
+            <pubDate>Wed, 09 Sep 2026 09:30:14 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2609.09.0</sparkle:version>
+            <sparkle:shortVersionString>260909.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## 更新内容
+
+- 改善 Mail 撰写窗口中正文和选中文字的润色支持。
+- 修复 Microsoft Teams 已填回润色结果，却提示输入发生变化的问题。
+
+## What’s new
+
+- Improved refinement of message text and selections in Mail compose windows.
+- Fixed an incorrect “input changed” message after refined text was inserted in Microsoft Teams.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260909.0/YiYan-260909.0.dmg" length="8099383" type="application/octet-stream" sparkle:edSignature="hbKdfBBD36Grq2sD7EK3AJ5DwzMAnEK4W9WeXnh03iK0W7IxLkl6WdSBoEflDS8jbzgaQRusc61xJNIyRYT6Bg=="/>
+        </item>
+        <item>
             <title>260906.0</title>
             <pubDate>Sun, 06 Sep 2026 20:07:49 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -85,27 +105,6 @@
   即可继续使用。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260823.0/YiYan-260823.0.dmg" length="7877950" type="application/octet-stream" sparkle:edSignature="44z/g+7ETBNPEJMYPEWkOFpNaJmg3wdQqUMWXHj8DItsj9N2ULXOD/Pn4rkPBHKzT7XHXGH+Zaf2eux++HC6DA=="/>
-        </item>
-        <item>
-            <title>260822.1</title>
-            <pubDate>Sat, 22 Aug 2026 21:49:32 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.22.1</sparkle:version>
-            <sparkle:shortVersionString>260822.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s improved
-
-- YiYan now skips messages that contain only a web link, keeping your learning
-  history focused on writing worth reviewing. Sentences that include a link
-  continue to be collected as usual.
-
-### 本次改进
-
-- 《绎言》现在会跳过只包含网页链接的消息，让学习记录更专注于值得回顾的
-  表达；包含链接的完整句子仍会照常收录。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260822.1/YiYan-260822.1.dmg" length="7854424" type="application/octet-stream" sparkle:edSignature="gLSqTC5f1UQqRYsUzdfCyF9USyKlcEwcI7IWJ82cmqw1rG9SmoLWsPl7k+9eB/CihVA1KQ76Jged+05+ceAADg=="/>
         </item>
     </channel>
 </rss>
