@@ -3,6 +3,24 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>260912.0</title>
+            <pubDate>Sat, 12 Sep 2026 18:34:21 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2609.12.0</sparkle:version>
+            <sparkle:shortVersionString>260912.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## 更新内容
+
+- 打开或重新打开主窗口后可直接输入，普通和置顶窗口均支持，并保留草稿和光标位置。
+
+## What’s new
+
+- Start typing as soon as you open or reopen the main window, including when it stays on top. Your draft and cursor position are preserved.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260912.0/YiYan-260912.0.dmg" length="8798989" type="application/octet-stream" sparkle:edSignature="ufXJ7iJBM9GxeaGNouTdM3W69T+MkNhLIV3mBJqVcLXCTMFAIiaxVcdayjJ9hW4AtiONORL31P1JkBGS/ZgtBw=="/>
+        </item>
+        <item>
             <title>260909.0</title>
             <pubDate>Wed, 09 Sep 2026 09:30:14 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -85,26 +103,6 @@
   记录会继续保留。
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260824.0/YiYan-260824.0.dmg" length="7914171" type="application/octet-stream" sparkle:edSignature="4e5821LwTEx4JZq225tUf+x3OEQAXcKWD9rhYEhUJXe2jaGowTS0qe2BFST3kqlYhCynhT4XoD68+L9CpnyDCA=="/>
-        </item>
-        <item>
-            <title>260823.0</title>
-            <pubDate>Sun, 23 Aug 2026 13:21:17 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.23.0</sparkle:version>
-            <sparkle:shortVersionString>260823.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s fixed
-
-- YiYan once again automatically collects prompts from the latest Codex
-  versions. Existing Codex setups continue to work without changes.
-
-### 本次修复
-
-- 《绎言》现已恢复自动采集新版 Codex 中的输入；现有 Codex 设置无需调整
-  即可继续使用。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260823.0/YiYan-260823.0.dmg" length="7877950" type="application/octet-stream" sparkle:edSignature="44z/g+7ETBNPEJMYPEWkOFpNaJmg3wdQqUMWXHj8DItsj9N2ULXOD/Pn4rkPBHKzT7XHXGH+Zaf2eux++HC6DA=="/>
         </item>
     </channel>
 </rss>

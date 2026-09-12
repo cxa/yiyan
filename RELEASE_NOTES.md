@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:260912.0:start -->
+## 260912.0
+
+### 更新内容
+
+- 打开或重新打开主窗口后可直接输入，普通和置顶窗口均支持，并保留草稿和光标位置。
+
+### What’s new
+
+- Start typing as soon as you open or reopen the main window, including when it stays on top. Your draft and cursor position are preserved.
+
+<!-- release-notes:260912.0:end -->
 <!-- release-notes:260909.0:start -->
 ## 260909.0
 
