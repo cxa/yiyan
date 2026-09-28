@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:260928.0:start -->
+## 260928.0
+
+### 更新内容
+
+- 修复 Codex 更新后可能无法翻译的问题，无需手动调整设置即可继续使用。
+
+### What’s new
+
+- Fixed translations failing after a Codex update, so you can keep using the app without manually adjusting settings.
+
+<!-- release-notes:260928.0:end -->
 <!-- release-notes:260912.0:start -->
 ## 260912.0
 
