@@ -3,6 +3,26 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261004.0</title>
+            <pubDate>Sun, 04 Oct 2026 14:45:20 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.04.0</sparkle:version>
+            <sparkle:shortVersionString>261004.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## 更新内容
+
+- 不再把没有正文的图片附件收进学习记录。
+- 更准确地识别没有学习价值的简短命令，减少重复原文的无用记录。
+
+## What’s new
+
+- Image attachments without accompanying text are no longer collected as learning records.
+- Improved detection of short commands with no learning value, reducing unhelpful records that simply repeat the original input.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261004.0/YiYan-261004.0.dmg" length="8804481" type="application/octet-stream" sparkle:edSignature="iIM7vkWoknZDSPg4spA1+lJZNHuIfMbhDeJJEVS1GlFds2ljuImo+Sce40OWnCMXf/1G0UrV7i+Nw7YKkKwsBQ=="/>
+        </item>
+        <item>
             <title>260928.0</title>
             <pubDate>Mon, 28 Sep 2026 16:26:51 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -79,24 +99,6 @@
 - Fixed a sync interruption caused by some older records, while preserving existing learning records and review progress.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260906.0/YiYan-260906.0.dmg" length="8096583" type="application/octet-stream" sparkle:edSignature="jeI+an0KQQzCHNJ4FSxMinZMsVbnbJT3eYK382/hhHnkCeXJFD71/+WtdPh+Odxx25tMtZLVNcol6K+BC/lTDg=="/>
-        </item>
-        <item>
-            <title>260824.1</title>
-            <pubDate>Mon, 24 Aug 2026 23:07:03 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2608.24.1</sparkle:version>
-            <sparkle:shortVersionString>260824.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[### What’s fixed
-
-- Choosing Settings from the menu bar now reliably opens the Settings window.
-
-### 本次修复
-
-- 从菜单栏选择“设置”时，现在会可靠地打开设置窗口。
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260824.1/YiYan-260824.1.dmg" length="7928457" type="application/octet-stream" sparkle:edSignature="GDqxGsIBF0GUMj/phB39tE7lzHnPXUG5LRwIKywlHHAfy1uI5myp0CJlDs/pF0W2HrE/JRuQkHkA6qWYmcnGDA=="/>
         </item>
     </channel>
 </rss>

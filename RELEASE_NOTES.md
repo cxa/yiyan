@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:261004.0:start -->
+## 261004.0
+
+### 更新内容
+
+- 不再把没有正文的图片附件收进学习记录。
+- 更准确地识别没有学习价值的简短命令，减少重复原文的无用记录。
+
+### What’s new
+
+- Image attachments without accompanying text are no longer collected as learning records.
+- Improved detection of short commands with no learning value, reducing unhelpful records that simply repeat the original input.
+
+<!-- release-notes:261004.0:end -->
 <!-- release-notes:260928.0:start -->
 ## 260928.0
 
