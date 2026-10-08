@@ -1,5 +1,23 @@
 # Release notes
 
+<!-- release-notes:261008.0:start -->
+## 261008.0
+
+### 更新内容
+
+- 每条学习记录都可以继续追问：点击记录上的对话图标，就能针对这句话的用词、语气或语法和智能体聊下去。追问只保存在这台 Mac 上，问过的记录会显示对话条数，也可以只看有追问的记录。
+- “润色当前输入框”更可靠了：Teams、浏览器网页等应用里也能顺利写回；润色期间切换到别的窗口，完成后会自动回到原输入框写入；如果没能写回，会在屏幕上方提示原因。
+- 全新的应用图标，采用更通透的玻璃质感，在深色、着色和清透外观下都更清晰。
+- 不再把回答 Codex 提问时的选择收进学习记录。
+
+### What’s new
+
+- Ask follow-up questions on any learning record: click the chat icon on a record to keep talking with an agent about its wording, tone, or grammar. Follow-ups stay on this Mac, records you’ve asked about show how many messages they have, and you can list only the records with follow-ups.
+- Refining the focused input is more reliable: it now writes back in apps such as Teams and web pages, returns to the original input if you switched windows while it worked, and shows a notice at the top of the screen when it can’t write the result back.
+- A new app icon with a clearer glass look that stays legible in dark, tinted, and clear appearances.
+- Your answers to Codex’s in-session questions are no longer collected as learning records.
+
+<!-- release-notes:261008.0:end -->
 <!-- release-notes:261004.0:start -->
 ## 261004.0
 
