@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:261012.0:start -->
+## 261012.0
+
+### 更新内容
+
+- 不再把只有终端命令的输入收进学习记录，连续执行的多条命令也会忽略；命令旁的文字说明仍正常采集。
+
+### What’s new
+
+- Inputs containing only terminal commands are no longer collected as learning records, including multiple commands run together. Accompanying explanations are still collected.
+
+<!-- release-notes:261012.0:end -->
 <!-- release-notes:261008.0:start -->
 ## 261008.0
 

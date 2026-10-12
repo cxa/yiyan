@@ -3,6 +3,24 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261012.0</title>
+            <pubDate>Mon, 12 Oct 2026 22:28:29 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.12.0</sparkle:version>
+            <sparkle:shortVersionString>261012.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### 更新内容
+
+- 不再把只有终端命令的输入收进学习记录，连续执行的多条命令也会忽略；命令旁的文字说明仍正常采集。
+
+### What’s new
+
+- Inputs containing only terminal commands are no longer collected as learning records, including multiple commands run together. Accompanying explanations are still collected.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261012.0/YiYan-261012.0.dmg" length="8515490" type="application/octet-stream" sparkle:edSignature="0WdkuigsWRuasXqbd4hPZXF+/WLm5PNz5uJ/CEodc6yWpQBPPcmgMrDeIF7mHov1QlNdup95Yz7tlcS6kactDg=="/>
+        </item>
+        <item>
             <title>261008.0</title>
             <pubDate>Thu, 08 Oct 2026 20:37:07 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -81,26 +99,6 @@
 - Start typing as soon as you open or reopen the main window, including when it stays on top. Your draft and cursor position are preserved.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260912.0/YiYan-260912.0.dmg" length="8798989" type="application/octet-stream" sparkle:edSignature="ufXJ7iJBM9GxeaGNouTdM3W69T+MkNhLIV3mBJqVcLXCTMFAIiaxVcdayjJ9hW4AtiONORL31P1JkBGS/ZgtBw=="/>
-        </item>
-        <item>
-            <title>260909.0</title>
-            <pubDate>Wed, 09 Sep 2026 09:30:14 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2609.09.0</sparkle:version>
-            <sparkle:shortVersionString>260909.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## 更新内容
-
-- 改善 Mail 撰写窗口中正文和选中文字的润色支持。
-- 修复 Microsoft Teams 已填回润色结果，却提示输入发生变化的问题。
-
-## What’s new
-
-- Improved refinement of message text and selections in Mail compose windows.
-- Fixed an incorrect “input changed” message after refined text was inserted in Microsoft Teams.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260909.0/YiYan-260909.0.dmg" length="8099383" type="application/octet-stream" sparkle:edSignature="hbKdfBBD36Grq2sD7EK3AJ5DwzMAnEK4W9WeXnh03iK0W7IxLkl6WdSBoEflDS8jbzgaQRusc61xJNIyRYT6Bg=="/>
         </item>
     </channel>
 </rss>
