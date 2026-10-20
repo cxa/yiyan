@@ -1,5 +1,11 @@
 # Release notes
 
+<!-- release-notes:261020.0:start -->
+## 261020.0
+
+《绎言》现在会跳过 Codex 定时自动化任务发出的内容，避免把自动检查指令误收录为学习记录。
+
+<!-- release-notes:261020.0:end -->
 <!-- release-notes:261012.0:start -->
 ## 261012.0
 

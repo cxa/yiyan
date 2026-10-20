@@ -3,6 +3,18 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261020.0</title>
+            <pubDate>Tue, 20 Oct 2026 11:18:56 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.20.0</sparkle:version>
+            <sparkle:shortVersionString>261020.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[《绎言》现在会跳过 Codex 定时自动化任务发出的内容，避免把自动检查指令误收录为学习记录。
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261020.0/YiYan-261020.0.dmg" length="8526717" type="application/octet-stream" sparkle:edSignature="kUTlKm27BnNuGZc8Nu/LrAMBGtx8DV3GD56R42AfzfsKBzHlkatE9xMznwIlUwxgELY7QVF9GJURQZxXP13yCg=="/>
+        </item>
+        <item>
             <title>261012.0</title>
             <pubDate>Mon, 12 Oct 2026 22:28:29 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -81,24 +93,6 @@
 - Fixed translations failing after a Codex update, so you can keep using the app without manually adjusting settings.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v260928.0/YiYan-260928.0.dmg" length="8801050" type="application/octet-stream" sparkle:edSignature="7OPTW4bkM5tpsbpINAz5JBm4U8eb99E8eiiIxMXkiHVvyBOy12BSA+Vjn/IeS3FZSfDFjSMsYjC8JlQFwU8/CA=="/>
-        </item>
-        <item>
-            <title>260912.0</title>
-            <pubDate>Sat, 12 Sep 2026 18:34:21 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2609.12.0</sparkle:version>
-            <sparkle:shortVersionString>260912.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## 更新内容
-
-- 打开或重新打开主窗口后可直接输入，普通和置顶窗口均支持，并保留草稿和光标位置。
-
-## What’s new
-
-- Start typing as soon as you open or reopen the main window, including when it stays on top. Your draft and cursor position are preserved.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260912.0/YiYan-260912.0.dmg" length="8798989" type="application/octet-stream" sparkle:edSignature="ufXJ7iJBM9GxeaGNouTdM3W69T+MkNhLIV3mBJqVcLXCTMFAIiaxVcdayjJ9hW4AtiONORL31P1JkBGS/ZgtBw=="/>
         </item>
     </channel>
 </rss>

@@ -7,16 +7,16 @@ English and focused learning notes.
 ## Install
 
 <!-- release-summary-en:start -->
-Latest version: `YiYan-261012.0.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
+Latest version: `YiYan-261020.0.dmg`. See the [release notes](RELEASE_NOTES.md) for changes in every version.
 <!-- release-summary-en:end -->
 
 **Direct download**
 
 <!-- release-download-en:start -->
-Download [`YiYan-261012.0.dmg`](https://github.com/cxa/yiyan/releases/download/v261012.0/YiYan-261012.0.dmg) (SHA-256: `f53084eb7bf613ee4cf6d2e5c80b82ad3ee862737084585b001975f6cd84d283`)
+Download [`YiYan-261020.0.dmg`](https://github.com/cxa/yiyan/releases/download/v261020.0/YiYan-261020.0.dmg) (SHA-256: `24d4c488fed4130e712061d84dcb0414bd4b50e11c7ce813af1464aaa9453149`)
 <!-- release-download-en:end -->
 
-1. Download the `YiYan-261012.0.dmg` shown above.
+1. Download the `YiYan-261020.0.dmg` shown above.
 2. Open the DMG and drag `YiYan.app` into **Applications**.
 3. Open YiYan and complete the first-launch guide.
 
@@ -56,16 +56,16 @@ YiYan is not open source.
 ## 安装
 
 <!-- release-summary-zh:start -->
-最新版本：`YiYan-261012.0.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
+最新版本：`YiYan-261020.0.dmg`。每个版本的更新内容请查看[发行说明](RELEASE_NOTES.md)。
 <!-- release-summary-zh:end -->
 
 **直接下载**
 
 <!-- release-download-zh:start -->
-下载 [`YiYan-261012.0.dmg`](https://github.com/cxa/yiyan/releases/download/v261012.0/YiYan-261012.0.dmg)（SHA-256：`f53084eb7bf613ee4cf6d2e5c80b82ad3ee862737084585b001975f6cd84d283`）
+下载 [`YiYan-261020.0.dmg`](https://github.com/cxa/yiyan/releases/download/v261020.0/YiYan-261020.0.dmg)（SHA-256：`24d4c488fed4130e712061d84dcb0414bd4b50e11c7ce813af1464aaa9453149`）
 <!-- release-download-zh:end -->
 
-1. 下载上方列出的 `YiYan-261012.0.dmg`。
+1. 下载上方列出的 `YiYan-261020.0.dmg`。
 2. 打开 DMG，将 `YiYan.app` 拖入“应用程序”文件夹。
 3. 打开《绎言》并完成首次启动引导。
 
