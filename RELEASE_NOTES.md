@@ -1,5 +1,17 @@
 # Release notes
 
+<!-- release-notes:261022.0:start -->
+## 261022.0
+
+### 更新内容
+
+- 修复清空或删除学习记录后，旧记录过一会儿又重新出现的问题。离线清空、重启或在同步过程中清空，也能保留删除结果。
+
+### What’s new
+
+- Fixed deleted or cleared learning records reappearing later. Deletions now stay in effect after clearing offline, restarting the app, or clearing while sync is in progress.
+
+<!-- release-notes:261022.0:end -->
 <!-- release-notes:261020.0:start -->
 ## 261020.0
 

@@ -3,6 +3,24 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261022.0</title>
+            <pubDate>Thu, 22 Oct 2026 13:15:57 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.22.0</sparkle:version>
+            <sparkle:shortVersionString>261022.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### 更新内容
+
+- 修复清空或删除学习记录后，旧记录过一会儿又重新出现的问题。离线清空、重启或在同步过程中清空，也能保留删除结果。
+
+### What’s new
+
+- Fixed deleted or cleared learning records reappearing later. Deletions now stay in effect after clearing offline, restarting the app, or clearing while sync is in progress.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261022.0/YiYan-261022.0.dmg" length="8555537" type="application/octet-stream" sparkle:edSignature="h1dH+Ul8d42do87sh1H81LxjfCXnDrwwnYdVkNpALoh+l2RQVWLqLRKWEQekcSF+nYecAgRNA9Og3BtP3gKgBA=="/>
+        </item>
+        <item>
             <title>261020.0</title>
             <pubDate>Tue, 20 Oct 2026 11:18:56 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -75,24 +93,6 @@
 - Improved detection of short commands with no learning value, reducing unhelpful records that simply repeat the original input.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v261004.0/YiYan-261004.0.dmg" length="8804481" type="application/octet-stream" sparkle:edSignature="iIM7vkWoknZDSPg4spA1+lJZNHuIfMbhDeJJEVS1GlFds2ljuImo+Sce40OWnCMXf/1G0UrV7i+Nw7YKkKwsBQ=="/>
-        </item>
-        <item>
-            <title>260928.0</title>
-            <pubDate>Mon, 28 Sep 2026 16:26:51 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2609.28.0</sparkle:version>
-            <sparkle:shortVersionString>260928.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## 更新内容
-
-- 修复 Codex 更新后可能无法翻译的问题，无需手动调整设置即可继续使用。
-
-## What’s new
-
-- Fixed translations failing after a Codex update, so you can keep using the app without manually adjusting settings.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v260928.0/YiYan-260928.0.dmg" length="8801050" type="application/octet-stream" sparkle:edSignature="7OPTW4bkM5tpsbpINAz5JBm4U8eb99E8eiiIxMXkiHVvyBOy12BSA+Vjn/IeS3FZSfDFjSMsYjC8JlQFwU8/CA=="/>
         </item>
     </channel>
 </rss>
