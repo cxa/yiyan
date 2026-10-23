@@ -1,5 +1,19 @@
 # Release notes
 
+<!-- release-notes:261023.0:start -->
+## 261023.0
+
+### 更新内容
+
+- 修复 Codex 定时自动化任务的内容仍被误收进学习记录的问题，重启《绎言》后也会跳过这些内容。
+- 同一聊天里手动发送的内容仍正常收录，避免遗漏或重复。
+
+### What’s new
+
+- Fixed Codex scheduled automation instructions still appearing as learning records, including after restarting YiYan.
+- Manual messages in the same chat continue to be collected without being skipped or duplicated.
+
+<!-- release-notes:261023.0:end -->
 <!-- release-notes:261022.0:start -->
 ## 261022.0
 

@@ -3,6 +3,26 @@
     <channel>
         <title>YiYan</title>
         <item>
+            <title>261023.0</title>
+            <pubDate>Fri, 23 Oct 2026 15:43:17 +0800</pubDate>
+            <link>https://github.com/cxa/yiyan</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2610.23.0</sparkle:version>
+            <sparkle:shortVersionString>261023.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### 更新内容
+
+- 修复 Codex 定时自动化任务的内容仍被误收进学习记录的问题，重启《绎言》后也会跳过这些内容。
+- 同一聊天里手动发送的内容仍正常收录，避免遗漏或重复。
+
+### What’s new
+
+- Fixed Codex scheduled automation instructions still appearing as learning records, including after restarting YiYan.
+- Manual messages in the same chat continue to be collected without being skipped or duplicated.
+]]></description>
+            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261023.0/YiYan-261023.0.dmg" length="8611899" type="application/octet-stream" sparkle:edSignature="PO9/M4aVnP2mycrJA80xW5KYFch/OthVykcXLpzrBiGqemtYnL06uMi6Bx2ofLpSc9aeJ3OQwRFKPbutws3JBQ=="/>
+        </item>
+        <item>
             <title>261022.0</title>
             <pubDate>Thu, 22 Oct 2026 13:15:57 +0800</pubDate>
             <link>https://github.com/cxa/yiyan</link>
@@ -73,26 +93,6 @@
 - Your answers to Codex’s in-session questions are no longer collected as learning records.
 ]]></description>
             <enclosure url="https://github.com/cxa/yiyan/releases/download/v261008.0/YiYan-261008.0.dmg" length="8510921" type="application/octet-stream" sparkle:edSignature="0ImqX6MJdqXTNDJ2s6sSRqmjkx4MBCMiDOMqFoh4rVzDQEpCNdSdHzgBnwNbBXzGfJLO0MHMaehJI/GS9yxFAw=="/>
-        </item>
-        <item>
-            <title>261004.0</title>
-            <pubDate>Sun, 04 Oct 2026 14:45:20 +0800</pubDate>
-            <link>https://github.com/cxa/yiyan</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/cxa/yiyan/blob/main/RELEASE_NOTES.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2610.04.0</sparkle:version>
-            <sparkle:shortVersionString>261004.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## 更新内容
-
-- 不再把没有正文的图片附件收进学习记录。
-- 更准确地识别没有学习价值的简短命令，减少重复原文的无用记录。
-
-## What’s new
-
-- Image attachments without accompanying text are no longer collected as learning records.
-- Improved detection of short commands with no learning value, reducing unhelpful records that simply repeat the original input.
-]]></description>
-            <enclosure url="https://github.com/cxa/yiyan/releases/download/v261004.0/YiYan-261004.0.dmg" length="8804481" type="application/octet-stream" sparkle:edSignature="iIM7vkWoknZDSPg4spA1+lJZNHuIfMbhDeJJEVS1GlFds2ljuImo+Sce40OWnCMXf/1G0UrV7i+Nw7YKkKwsBQ=="/>
         </item>
     </channel>
 </rss>
